@@ -11,6 +11,8 @@ As well as enjoy design UI in Flutter, WPF. You could check out my linked at htt
 * ⌨ C, C++, c#
 * 👨‍💻 AI
 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nandhakumare)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/senandhakumar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/senandhakumar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nandhak_nk/)  
+
 
 ![Profile views](https://gpvc.arturio.dev/nandhakumare)  
